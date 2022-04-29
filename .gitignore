@@ -1,2 +1,14 @@
 
 .idea/
+
+.vs/
+
+CrackMes/Debug/
+
+CrackMes/Release/
+
+CrackMes/x64/
+
+Debug/
+
+Release/
