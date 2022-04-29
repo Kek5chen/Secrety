@@ -144,9 +144,11 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="antiDebug.cpp" />
     <ClCompile Include="main.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="antiDebug.h" />
     <ClInclude Include="output.h" />
     <ClInclude Include="time.h" />
   </ItemGroup>
